@@ -1,2 +1,2 @@
-# Ola Mundo
- primeiro repositório do curso de git e github
+# Olá, Mundo!
+ Esse repositório foi criado com o único intuito de APRENDIZADO do git e github, então se tiver qualquer erro, saiba que estou aprendendo. Alias, se houver alguma dica que você se interesse em me dar, eu agradeceria muito se compartilhasse comigo, um abraaço!
